@@ -58,8 +58,6 @@ The client uses separate sending and receiving threads so users can type message
 - `legacy_network.py` – Creates the Mininet topology, configures IP addresses and routes, launches xterms, and starts the chat programs.
 - `pa4_chat_server.py` – Threaded TCP group-chat server.
 - `pa4_chat_client.py` – Concurrent TCP chat client with sending and receiving threads.
-- `network_design.png` or `network_design.pdf` – Labeled topology diagram, if included.
-- `network_changes.txt` – Explanation of changes made to the starter network file, if included.
 
 ## Requirements
 
